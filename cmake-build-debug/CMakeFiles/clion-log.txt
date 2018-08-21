@@ -1,0 +1,4 @@
+/home/henrique/Apps/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/henrique/CLionProjects/CalculoBateria
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/henrique/CLionProjects/CalculoBateria/cmake-build-debug
